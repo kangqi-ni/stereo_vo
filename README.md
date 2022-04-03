@@ -6,4 +6,5 @@ Then run ./bin/run_kitti in the terminal
 
 Please check CMakeLists.txt for dependencies
 
+Visualization:
 ![Visualization](https://github.com/kangqi-ni/stereo_vo/blob/master/Visualizer.png)
