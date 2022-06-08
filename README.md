@@ -3,6 +3,7 @@
 This project implements a simple stereo visual odometry using kittit datasets.
 
 To use this code with a kitti sequence, specify the path to the kitti sequence in config/config.yaml
+
 config/config.yaml also contains the parameters to configure the algorithm
 Then run ./bin/run_kitti in the terminal
 
