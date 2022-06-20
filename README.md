@@ -1,6 +1,7 @@
 # Stereo Visual Odometry on KITTI datasets
 
-This project implements a simple stereo visual odometry using kittit datasets.
+This project implements a basic stereo visual odometry on kitti datasets for learning purposes.
+Its simple pipeline includes fundamental components of a working visual odometry.   
 
 To use this code with a kitti sequence, specify the path to the kitti sequence in config/config.yaml.
 
